@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayaramakrishna99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayaramakrishna99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <img src="https://komarev.com/ghpvc/?username=jayaramakrishna99&color=brightgreen" alt="watching_count" />
 
 ***
 
