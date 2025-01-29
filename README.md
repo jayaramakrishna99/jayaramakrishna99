@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 
 ***
 
-<img src="https://myreadme.vercel.app/api/embed/jayaramakrishna99?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<!--
+  <img src="https://myreadme.vercel.app/api/embed/jayaramakrishna99?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+-->
+
